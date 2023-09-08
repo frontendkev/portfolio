@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.30c23a04.css",
-    "main.js": "/portfolio/static/js/main.80b88827.js",
+    "main.js": "/portfolio/static/js/main.f48ec0ea.js",
     "static/js/787.acb82853.chunk.js": "/portfolio/static/js/787.acb82853.chunk.js",
     "static/media/portfolioHome.png": "/portfolio/static/media/portfolioHome.4ff5286c46671cc16e3a.png",
     "static/media/shoppywishlist.png": "/portfolio/static/media/shoppywishlist.70c4f103276e83c942f3.png",
@@ -11,21 +11,22 @@
     "static/media/todoactive.png": "/portfolio/static/media/todoactive.3d48bc7693c782d673d4.png",
     "static/media/todo.png": "/portfolio/static/media/todo.29c02fdbd9b89b825411.png",
     "static/media/home.jpg": "/portfolio/static/media/home.91c90cb05d9c2766c1cd.jpg",
-    "static/media/shoppymobile.png": "/portfolio/static/media/shoppymobile.76fc9ac2e8045c024bed.png",
     "static/media/shoppycart.png": "/portfolio/static/media/shoppycart.e9546d00db1d58c34898.png",
+    "static/media/dashcategory.png": "/portfolio/static/media/dashcategory.616140907752bbc36e75.png",
+    "static/media/dashhome.png": "/portfolio/static/media/dashhome.fb26045ed3a289aab021.png",
+    "static/media/dashyear.png": "/portfolio/static/media/dashyear.c64b729405a03c483cd6.png",
     "static/media/portfolioAbout.png": "/portfolio/static/media/portfolioAbout.44e1ef6207b7be315b01.png",
-    "static/media/todomobile.png": "/portfolio/static/media/todomobile.53d0753ae1bdf76b9590.png",
     "static/media/Quicksand-Regular.ttf": "/portfolio/static/media/Quicksand-Regular.04b11c8f0d4d58c1bed1.ttf",
     "static/media/Quicksand-SemiBold.ttf": "/portfolio/static/media/Quicksand-SemiBold.80ffdcf8e73fc889b11f.ttf",
     "static/media/Quicksand-Bold.ttf": "/portfolio/static/media/Quicksand-Bold.a0a11318dd0b528da77d.ttf",
     "static/media/PortfolioContact.png": "/portfolio/static/media/PortfolioContact.96dfb79daf6931f8456c.png",
     "index.html": "/portfolio/index.html",
     "main.30c23a04.css.map": "/portfolio/static/css/main.30c23a04.css.map",
-    "main.80b88827.js.map": "/portfolio/static/js/main.80b88827.js.map",
+    "main.f48ec0ea.js.map": "/portfolio/static/js/main.f48ec0ea.js.map",
     "787.acb82853.chunk.js.map": "/portfolio/static/js/787.acb82853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30c23a04.css",
-    "static/js/main.80b88827.js"
+    "static/js/main.f48ec0ea.js"
   ]
 }
