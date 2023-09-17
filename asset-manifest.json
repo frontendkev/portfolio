@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.30c23a04.css",
-    "main.js": "/portfolio/static/js/main.f48ec0ea.js",
-    "static/js/787.acb82853.chunk.js": "/portfolio/static/js/787.acb82853.chunk.js",
+    "main.css": "/portfolio/static/css/main.1d5f633f.css",
+    "main.js": "/portfolio/static/js/main.e8dc9dce.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/portfolioHome.png": "/portfolio/static/media/portfolioHome.4ff5286c46671cc16e3a.png",
     "static/media/shoppywishlist.png": "/portfolio/static/media/shoppywishlist.70c4f103276e83c942f3.png",
     "static/media/shoppy.png": "/portfolio/static/media/shoppy.5e8952bfb7ada3b314d1.png",
@@ -21,12 +21,12 @@
     "static/media/Quicksand-Bold.ttf": "/portfolio/static/media/Quicksand-Bold.a0a11318dd0b528da77d.ttf",
     "static/media/PortfolioContact.png": "/portfolio/static/media/PortfolioContact.96dfb79daf6931f8456c.png",
     "index.html": "/portfolio/index.html",
-    "main.30c23a04.css.map": "/portfolio/static/css/main.30c23a04.css.map",
-    "main.f48ec0ea.js.map": "/portfolio/static/js/main.f48ec0ea.js.map",
-    "787.acb82853.chunk.js.map": "/portfolio/static/js/787.acb82853.chunk.js.map"
+    "main.1d5f633f.css.map": "/portfolio/static/css/main.1d5f633f.css.map",
+    "main.e8dc9dce.js.map": "/portfolio/static/js/main.e8dc9dce.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30c23a04.css",
-    "static/js/main.f48ec0ea.js"
+    "static/css/main.1d5f633f.css",
+    "static/js/main.e8dc9dce.js"
   ]
 }
