@@ -6,7 +6,7 @@ import ProjectSample from "../../Components/ProjectSample/ProjectSample";
 import ProjectDetails from "../../Components/ProjectDetails/ProjectDetails";
 import ProjectFooter from "../../Components/ProjectFooter/ProjectFooter";
 
-export default function ToDoInfo () {
+export default function ToDoInfo() {
     return (
         <section role={'project-info'} aria-label={'project-info-page'} className={'relative w-full min-h-screen flex flex-col gap-y-[2em]'}>
 
@@ -15,16 +15,18 @@ export default function ToDoInfo () {
             <ProjectSample imageONe={portfolioHome} imageTwo={portfolioABout} imageThree={portfolioContact} />
 
             <ProjectDetails>
-                   <span className={'capitalize leading-[2em]'}>
-                               elevate
-                           </span> your productivity with my sleek and intuitive <span>react</span> to-do list application.<br />
-                <span>
-                               seamlessly
-                           </span> manage your tasks and stay organized with a user-friendly interface that allows you to effortlessly add, update, and mark tasks as complete.<br />
-                <span>experience</span> the convenience of real-time updates and dynamic task tracking, all powered by the efficiency of <span>react</span>.<br/>
-                <span>
-                               whether
-                           </span> it's daily tasks, important reminders, or long-term goals, my to-do list project offers a modern and effective solution to help you stay on top of your tasks..
+                <span className={'capitalize leading-[2em]'}>
+                    my
+                </span> portfolio website showcases my skills and experience as a frontend developer. < br />
+                <span className='capitalize leading-[2em]'>
+                    built
+                </span> with react and other cutting-egde technologies, the website features a minimalistic design that highlights my projects, achievements and qualifications. < br />
+                <span className='capiatalize leading-[2em]'>
+                    users
+                </span> can easily browse through my work, learn about my background, and reach out to me directly through the website for potential job opportunities or collaboration opportunities. < br />
+                <span className='capitalize leading-[2em]'>
+                    it's
+                </span> a reflection of my dedication to creating high-quality, user-centric websites and applications, and my passion for continuing professional development in the ever-evolving world of frontend development.
             </ProjectDetails>
 
             <ProjectFooter siteName={'my portfolio'} siteLink={"https://frontendkev.github.io/portfolio/"} />

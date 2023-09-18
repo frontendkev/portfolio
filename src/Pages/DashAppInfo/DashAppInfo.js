@@ -17,23 +17,19 @@ export default function DashAppInfo() {
 
             <ProjectDetails>
                 <span className={'capitalize leading-[2em]'}>
-                    discover
-                </span> the ultimate online shopping experience with my
-                cutting-edge <span>react</span> clothing store.<br />
-                <span>
-                    explore
-                </span> a vast collection of stylish apparel for women, meticulously organized
-                into dedicated sections.<br />
-                with a seamless, responsive and intuitive user interface, you can effortlessly browse through our
-                curated selection and add your favorite items to a personalized wishlist.<br />
-                keep track of your desired items and make shopping a breeze with our user-friendly shopping cart
-                feature.<br />
-                <span>
-                    built
-                </span> using advanced <span>react</span> tools such as <span>redux</span> for state
-                management, toast notifications for real-time updates, and <span>redux thunk</span> for efficient
-                asynchronous actions, <span>shoppy</span> offers a modern and efficient way to elevate your fashion
-                game.
+                    this
+                </span> ecommerce sales analysis dashboard is a <span className="capitalize">react-</span>based application that allows users to monitor and analyze their ecommerce sales data in real-time.< br />
+                <span className="capitalize leading-[2em]">
+                    the
+                </span> dashboard utilizes the <span className="capitalize">recharts</span> library to visualize and display the data in an easy-to-understand manner.< br />
+                <span className="capitalize">
+                    it
+                </span> provides users with features such as weekly and monthly sales performance reports, breakdown of sales by product category and top-selling products.
+                < br />
+                <span className="capitalize">
+                    it
+                </span> also provides dynamic filters for users to customize the data they want to view.< br />
+                <span className="capitalize">overall</span>, this project provides ecommerce store owners with a powerful and intuitive tool to gain insights into their sales performance and make data-driven decisions to grow their business.
             </ProjectDetails>
 
             <ProjectFooter siteName={'dash-app'} siteLink={"https://frontendkev.github.io/dash-app/"} />
